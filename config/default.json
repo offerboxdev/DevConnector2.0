@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://administrator:pa11iDin@cluster0-y5zu5.mongodb.net/test",
+  "jwtSecretToken": "mySecretToken",
+  "githubClientId": "",
+  "githubSecret": ""
+}
