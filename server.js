@@ -27,7 +27,10 @@
 // $>npm run dev
 
 //-----------------------------------------------------
+// $>cd client // Important to go to client folder
 // npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+// To uninstall
+// npm uninstall --save axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
 //-----------------------------------------------------
 
 const express = require("express");
